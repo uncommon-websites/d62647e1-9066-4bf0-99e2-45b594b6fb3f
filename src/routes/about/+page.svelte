@@ -51,32 +51,9 @@
 	stakeholders={[
 		{
 			name: "Andrew",
-			position: "Founder",
+			position: "Founder & CEO",
 			bio: "Core contributor to Lightning Network protocols (LND and BOLT specs), built production payment systems at Bitlum, and shipped Lightning-based DEX at ZigZag. Bringing protocol-level expertise to solve real freelancer problems.",
-			image: "/generated/image-a-professional-software-engineer-working.webp"
-		}
-	]}
-/>
-
-<StakeholderGrid
-	stakeholderType="investor"
-	title="Our mission."
-	subtitle="Serving the 90M freelancers transforming the $1.27T market"
-	stakeholders={[
-		{
-			name: "Targeting US Market",
-			bio: "Starting with US-based freelancers who need streamlined project kickoffs",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Growing to 90M Users",
-			bio: "Scaling intelligent automation to transform how creative professionals work",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "$1.27T Opportunity",
-			bio: "Capturing value in the massive global freelance economy",
-			image: "https://www.unc.mn/image-placeholder.svg"
+			image: "/generated/image-a-confident-software-engineer-founder-in.webp"
 		}
 	]}
 />
