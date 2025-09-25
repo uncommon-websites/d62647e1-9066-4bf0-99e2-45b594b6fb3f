@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Turn leads into paid projects faster"
+	subtitle="Skip the admin. Send proposals. Get paid. Takein.ai's AI assistant streamlines client intake, proposal generation, and payment—saving freelancers 5-10 hours per client while boosting close rates."
+	imageSrc="/generated/image-a-confident-freelance-designer-working-e.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/shopify.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/squarespace.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/mailchimp.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/canva.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
