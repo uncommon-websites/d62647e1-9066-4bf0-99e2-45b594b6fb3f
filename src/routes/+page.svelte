@@ -7,6 +7,14 @@
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
 	import Hero from "$lib/components/layout/hero-sections/Hero.svelte";
+
+	// Icons
+	import IconBrain from "~icons/lucide/brain";
+	import IconFileText from "~icons/lucide/file-text";
+	import IconCreditCard from "~icons/lucide/credit-card";
+	import IconBarChart3 from "~icons/lucide/bar-chart-3";
+	import IconStar from "~icons/lucide/star";
+	import IconShield from "~icons/lucide/shield";
 </script>
 
 <Hero
@@ -26,60 +34,72 @@
 />
 
 <Summary
-	generating
 	title="What we do"
 	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maya Rodriguez",
+			position: "Brand Designer",
+			company: "Independent Studio",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Takein.ai cut my proposal time from 6 hours to 45 minutes. I went from closing 2 out of 10 leads to 7 out of 10. That's an extra $15k in monthly revenue just from better proposals.",
+			image: "/generated/image-professional-headshot-of-a-confident-fem.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Thompson",
+			position: "Marketing Consultant",
+			company: "Freelance",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The AI assistant handles all my intake calls and generates detailed project briefs automatically. I save 8 hours per week on admin work, which means I can take on two more clients monthly.",
+			image: "/generated/image-professional-headshot-of-a-male-marketin.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Zara Chen",
+			position: "Web Designer",
+			company: "Digital Freelancer",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"My biggest pain was losing qualified leads to slow follow-ups. Now clients get professional proposals within 2 hours of our first call. My close rate jumped from 25% to 42% in three months.",
+			image: "/generated/image-professional-headshot-of-a-young-female-.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Turn leads into paid projects. Fast."
+	subtitle="Stop losing clients before the work even starts. Save 5-10 hours per client while doubling your close rates."
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "AI-powered client intake",
+			description: "Smart forms extract project requirements from messy client briefs automatically. No more back-and-forth emails or missed details.",
+			icon: IconBrain
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Instant proposal generation",
+			description: "Create tailored, professional proposals in minutes, not hours. Review, edit, or auto-send when everything looks perfect.",
+			icon: IconFileText
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Upfront payment collection",
+			description: "Get paid before projects start with seamless payment processing. No more late payments or awkward money conversations.",
+			icon: IconCreditCard
+		},
+		{
+			title: "Lead conversion analytics",
+			description: "Track and optimize your close rates with actionable insights. See what's working and double down on success.",
+			icon: IconBarChart3
+		},
+		{
+			title: "Branded client experience",
+			description: "Every touchpoint matches your brand for a professional experience that builds trust and commands premium rates.",
+			icon: IconStar
+		},
+		{
+			title: "Project scope protection",
+			description: "AI monitors for scope creep and suggests contract adjustments to protect your time and maintain profitability.",
+			icon: IconShield
 		}
 	]}
 />
