@@ -11,94 +11,79 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Craft over paperwork",
+			description: "Every minute should be spent on creative work, not administrative busywork."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Technical depth",
+			description: "Building production-grade systems that handle complexity behind simple interfaces."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Freelancer success",
+			description: "Our wins are measured by the creative professionals who thrive using our platform."
 		}
 	];
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="From lead to paid in minutes"
+	subtitle="No more quoting guesswork or admin drift"
+	imageSrc="/generated/image-a-professional-freelancer-working-at-a-m.webp"
 />
 
 <!-- Story Section -->
 <Story
-	generating
 	paragraphs={[
-		"We started in 2018 with a simple goal: make helpful tech that people actually need. While many chase profits, we chose to do things differently.",
-		"Beyond making good products, we care about doing the right thing, being kind to our planet, and making sure everyone can use what we build. That's our compass.",
-		"From day one, we've asked ourselves: 'Does this actually help people?' This question gets us through tough calls and shapes who we are. We're playing the long game here.",
-		"We think about how our work affects real people's lives. We build tech that brings people together, keeps your information safe, and treats everyone fairly. When we stick to these basics, good things happen."
+		"After years of building production payment rails and Lightning Network protocols, founder Andrew witnessed the same frustrating pattern everywhere: talented freelancers drowning in pre-sales admin work. Despite their creative brilliance, designers and marketers were losing 5-10 hours per client on intake forms, proposal writing, and payment setup—time that should have been spent doing what they love. With proposal close rates stuck at 20-36%, it was clear that administrative friction was killing creative potential.",
+		"Drawing from his experience turning protocol-level complexity into user-ready systems at companies like Bitlum and ZigZag, Andrew saw an opportunity to apply the same principles to freelancer workflows. What if AI could handle the tedious parts—client intake, proposal generation, payment processing—while preserving the human creativity that makes each freelancer unique? Takein.ai was born from this vision: an intelligent assistant that transforms scattered admin tasks into a streamlined system, letting freelancers focus on craft over paperwork.",
+		"Today, we're targeting the $1.27 trillion freelance market with a solution that doesn't just save time—it fundamentally changes how creative professionals run their businesses. By 2028, we envision 90 million users leveraging our AI to convert leads faster, close deals more effectively, and reclaim their creative energy. Every hour we save on admin is an hour returned to innovation, design, and the meaningful work that drives our economy forward."
 	]}
 />
 
 <!-- Our Culture Section -->
-<Culture {values} generating />
+<Culture {values} />
 
 <!-- StakeholderGrid Section -->
 <StakeholderGrid
-	generating
 	stakeholderType="team"
-	title="Our team."
-	subtitle="Your partners in innovation."
+	title="Meet our founder."
+	subtitle="From protocol engineer to freelancer advocate."
 	stakeholders={[
 		{
-			name: "Alex Morgan",
-			position: "Founder & CEO",
-			bio: "Started the company with a vision to transform the industry through innovative solutions.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Jamie Chen",
-			position: "Chief Design Officer",
-			bio: "Award-winning designer with a passion for creating intuitive and beautiful experiences.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Taylor Wright",
-			position: "Head of Engineering",
-			bio: "Technology enthusiast focused on building scalable systems that make a difference.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+			name: "Andrew",
+			position: "Founder",
+			bio: "Core contributor to Lightning Network protocols (LND and BOLT specs), built production payment systems at Bitlum, and shipped Lightning-based DEX at ZigZag. Bringing protocol-level expertise to solve real freelancer problems.",
+			image: "/generated/image-a-professional-software-engineer-working.webp"
 		}
 	]}
 />
 
 <StakeholderGrid
-	generating
 	stakeholderType="investor"
-	title="Backed by the best."
-	subtitle="Point Nine, TSIC and others"
+	title="Our mission."
+	subtitle="Serving the 90M freelancers transforming the $1.27T market"
 	stakeholders={[
 		{
-			name: "Point Nine Capital",
-			image: "https://cdn.brandfetch.io/pointnine.com/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7"
+			name: "Targeting US Market",
+			bio: "Starting with US-based freelancers who need streamlined project kickoffs",
+			image: "https://www.unc.mn/image-placeholder.svg"
 		},
 		{
-			name: "TSIC Ventures",
-			image: "https://cdn.brandfetch.io/tiny.vc/w/400/h/400/logo?c=1a2b3c4d5e"
+			name: "Growing to 90M Users",
+			bio: "Scaling intelligent automation to transform how creative professionals work",
+			image: "https://www.unc.mn/image-placeholder.svg"
 		},
 		{
-			name: "Sequoia Capital",
-			image: "https://cdn.brandfetch.io/sequoiacap.com/w/400/h/400/logo"
+			name: "$1.27T Opportunity",
+			bio: "Capturing value in the massive global freelance economy",
+			image: "https://www.unc.mn/image-placeholder.svg"
 		}
 	]}
 />
 
 <!-- CTA Section -->
 <CallToAction
-	generating
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Ready to reclaim your time?"
+	subtitle="From lead to paid in minutes"
+	description="Join the freelancers who've eliminated admin drift and increased their close rates with intelligent project kickoff automation."
 />
