@@ -4,6 +4,7 @@
     "filename": "/generated/image-a-confident-freelance-designer-working-e.webp"
   },
   {
+<<<<<<< HEAD
     "prompt": "Medium-wide professional headshot of Maya Chen, an Asian female freelance designer, in a modern, naturally lit office. She is seated at her desk, surrounded by subtle creative details like a sketchbook, a potted plant, and a coffee cup. Maya wears relaxed, creative-professional attire in neutral tones with a touch of blue. Her expression is quietly confident and engaged, with a gentle smile. The workspace is organized but personal, with soft daylight creating a calm, optimistic mood. The background includes layered elements like shelves or artwork, softly out of focus, conveying a sense of creative flow and time abundance.",
     "filename": "/generated/image-medium-wide-professional-headshot-of-may.webp"
   },
@@ -14,5 +15,29 @@
   {
     "prompt": "Medium-wide professional headshot of Priya Patel, an Indian female freelance consultant, seated in a modern workspace with abundant natural light. She is captured in a moment of quiet satisfaction, with a warm, subtle smile and focused eyes. Priya wears smart-casual, creative attire in neutral shades with a subtle accent of blue or green. Her desk includes authentic details like a closed laptop, a notepad, and a leafy plant. The space feels organized, personal, and aspirational, with soft shadows and layered depth from background elements such as a bookshelf or window. The overall mood is calm, optimistic, and empowering, reflecting professional success and creative flow.",
     "filename": "/generated/image-medium-wide-professional-headshot-of-pri.webp"
+=======
+    "prompt": "Professional headshot of a confident female graphic designer with auburn hair, seated in a naturally lit, modern creative studio. She is surrounded by subtle creative tools—sketchbooks, color swatches, a favorite mug, and a leafy plant in the background. Her expression is focused and quietly satisfied, with a gentle, natural smile. The composition uses the rule of thirds, with soft, neutral tones and accents of blue and green in her attire and workspace. The lighting is soft daylight, creating an inviting, calm atmosphere that suggests professional flow and creative momentum.",
+    "filename": "/generated/image-professional-headshot-of-a-confident-fem.webp"
+  },
+  {
+    "prompt": "Professional headshot of a male marketing freelancer with a beard, posed in a relaxed, creative home office. The environment includes personal touches like a worn notebook, a coffee cup, and a thriving plant, with gentle daylight streaming in. He appears engaged and confident, leaning back in his chair with a subtle, contented smile, surrounded by organized but lived-in workspace elements. The color palette is mostly neutral with hints of blue and green, and the framing is medium-wide, using selective focus to highlight his presence while showing the context of a successful freelancer’s environment.",
+    "filename": "/generated/image-professional-headshot-of-a-male-marketin.webp"
+  },
+  {
+    "prompt": "Professional headshot of a young female web designer with dark hair, captured in a bright, airy coworking space. She is positioned off-center at a desk with creative tools—sketchpads, pens, and a laptop closed beside her. The background includes soft-focus details like a potted plant and a window with morning light. Her body language is open and relaxed, with a look of quiet confidence and creative satisfaction. Neutral tones dominate, with blue and green accents in her clothing and workspace, and the soft, natural lighting conveys a sense of calm productivity and time abundance.",
+    "filename": "/generated/image-professional-headshot-of-a-young-female-.webp"
+  },
+  {
+    "prompt": "A professional freelancer working at a modern desk with a laptop in a sunlit home studio. The scene is captured in a documentary lifestyle style, medium-wide framing, with the subject off-center for a sense of breathing room. The workspace is organized yet lived-in, featuring creative tools like sketchbooks, a favorite mug, and subtle touches of blue and green through wardrobe and plants. Natural daylight streams in, casting soft, neutral-to-warm tones. The freelancer appears focused and quietly confident, mid-movement – perhaps reaching for a notebook or pausing in thought. Subtle layered depth with a blurred coffee cup in the foreground and creative artifacts in the background. The overall mood is calm momentum and professional flow, conveying relief, empowerment, and success without stress.",
+    "filename": "/generated/image-a-professional-freelancer-working-at-a-m.webp"
+  },
+  {
+    "prompt": "A professional software engineer working on a laptop in a sunlit, organized home studio. The scene is photographed in a documentary lifestyle style, with the subject positioned off-center, seated at a natural wood desk surrounded by authentic creative tools and personal items like a favorite mug, a potted plant, and a worn notebook. The environment feels calm and lived-in, with subtle pops of blue in clothing or desk accessories and touches of green from plants. Natural daylight streams softly through a window, casting gentle, warm shadows. The engineer appears quietly confident and focused, with relaxed posture and an open, engaged expression. Foreground elements such as a coffee cup or sketchbook add depth, while the background shows shelves with creative artifacts. The overall mood is one of calm momentum and professional control, capturing a real moment of productive flow.",
+    "filename": "/generated/image-a-professional-software-engineer-working.webp"
+  },
+  {
+    "prompt": "A confident software engineer founder in clean, modern business casual attire, seated in a sunlit creative office. The subject is positioned off-center, relaxed yet focused, with a subtle smile, surrounded by authentic creative workspace elements like notebooks, a coffee cup, and a plant. Natural daylight fills the scene with soft, neutral-to-warm tones. The environment is organized but personal, featuring touches of blue and green in clothing or decor. The composition uses layered depth and gentle diagonal lines, with negative space adding a sense of calm momentum. The overall mood is one of quiet confidence and professional flow, suggesting a successful workday free from administrative burden.",
+    "filename": "/generated/image-a-confident-software-engineer-founder-in.webp"
+>>>>>>> 09129f0b775b512eb1acd5f632b315dd45133fe6
   }
 ]
