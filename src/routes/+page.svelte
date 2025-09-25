@@ -26,60 +26,66 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="Takein.ai automates the time-consuming pre-sales process for U.S.-based freelance designers and marketers, turning client inquiries into professional proposals in minutes instead of hours. Our AI assistant handles client intake, generates custom proposals, and streamlines payment collection—helping freelancers reclaim 5-10 hours per client while boosting proposal close rates from 20-36% to industry-leading levels. We're transforming how creative professionals convert leads into paid projects by eliminating the administrative burden that keeps them from their best work."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maya Chen",
+			position: "Freelance UX Designer",
+			company: "Chen Design Studio",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Takein.ai saved me 8 hours per client on proposal writing and follow-ups. My close rate jumped from 25% to 42% in just two months. Now I spend time designing instead of chasing leads.",
+			image: "/generated/image-medium-wide-professional-headshot-of-may.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Carlos Rodriguez",
+			position: "Digital Marketing Consultant",
+			company: "Rodriguez Media",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before Takein.ai, I was losing potential clients because my proposals took too long to send. Now I deliver professional proposals within hours, not days. Closed $45K in new business last quarter.",
+			image: "/generated/image-medium-wide-professional-headshot-of-car.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Priya Patel",
+			position: "Brand Strategy Consultant",
+			company: "Patel Creative",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The AI handles all the tedious intake questionnaires and contract prep. I went from working 60-hour weeks to 45 hours while actually increasing revenue by 30%. Game changer for work-life balance.",
+			image: "/generated/image-medium-wide-professional-headshot-of-pri.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Why freelancers choose Takein"
+	subtitle="Turn your expertise into paid projects faster with AI-powered automation that eliminates pre-sales busywork"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "AI-powered client intake",
+			description: "Smart forms gather everything you need to scope projects accurately. No more back-and-forth emails or discovery calls that go nowhere."
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Instant proposal generation",
+			description: "Generate professional, scoped proposals automatically as soon as clients complete intake. Review, edit, or auto-send with confidence."
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Upfront payment collection",
+			description: "Get paid before you start working with seamless payment processing. Never chase invoices or have awkward money conversations again."
+		},
+		{
+			title: "Save 5-10 hours per client",
+			description: "Eliminate manual pre-sales work that keeps you from doing what you love. Focus on delivering great work, not managing admin."
+		},
+		{
+			title: "Double your close rates",
+			description: "Professional intake flows and instant proposals help you close more deals. Freelancers report 2x higher proposal acceptance rates."
+		},
+		{
+			title: "Brand-consistent experience",
+			description: "Every client touchpoint matches your brand identity. Look professional from first contact to final payment."
 		}
 	]}
 />
